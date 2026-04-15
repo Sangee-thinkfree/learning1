@@ -1,0 +1,29 @@
+for git in vscode 
+after creating new file 
+1 git add filename.txt
+2 git commit -m "message"
+3 git push origin main # ithink here main is the main file
+4 git pull 
+5 # tocome out from a file- cd .. then cd file_name
+6 git init # if i create a new file in my machine and i want it in github through     
+  vscode
+7 git add . #to add all we do
+8 git pull
+9 git branch -a # show branches in a repo
+   to get info about all brranches :-git fetch --all
+10 git checkout branch name # 🍎this can load your new remote branches(branches
+   only in github) to local       
+11 after :- ♾️git pull origin branch name 
+   pull= fetch+merge
+   we can use it to update our branch from github
+12 git merge branchname #it's going to merge with the current branch(main)
+13 git diff newbranchname # it's going to compare with the current branch
+14 cd repo name get into a repo
+15 say if i am in main branch and i have to merge another branch with main what i
+   have to do is :- git merge otherbranchname after that :- git push origin main 
+16 git branch -d branch_name # this is for deleting a branch  
+17 git branch -a # to see all the branches in a repo
+18 git fetch origin # to fetch the latest branch to the vscode👍    
+19 git branch branchname # to create a new branch from vs code   
+20 to get into a file in a branch 1st- git checkout branchname; then- code file 
+  name     
